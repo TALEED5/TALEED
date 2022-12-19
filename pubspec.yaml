@@ -11,8 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.17.0
+  
 
   cupertino_icons: ^1.0.2
+  cloud_firestore: ^4.2.0
   firebase_auth: ^4.2.0
   google_fonts_arabic:
       git: git://github.com/emadomedher/google-fonts-arabic.git
